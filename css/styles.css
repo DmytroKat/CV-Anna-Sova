@@ -29,7 +29,6 @@ body{
     font-weight: bold;
     font-size: 14px;
     line-height: 17px;
-    
 }
 .about_me_body{
     color: #595959;
@@ -142,7 +141,7 @@ body{
 }
 
 .saidbar-skills-item{
-    color: #FB6D3A;
+    color: white;
     padding-left: 20px;
 }
 
